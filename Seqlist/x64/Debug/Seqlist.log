@@ -1,0 +1,6 @@
+﻿  SeqList.c
+  test.c
+E:\VSc\CODE\Seqlist\test.c(20,21): warning C4020: “SeqListPopBack”: 实参太多
+E:\VSc\CODE\Seqlist\test.c(21,21): warning C4020: “SeqListPopBack”: 实参太多
+  正在生成代码...
+  Seqlist.vcxproj -> E:\VSc\CODE\Seqlist\x64\Debug\Seqlist.exe
