@@ -1,0 +1,7 @@
+﻿  test.c
+D:\Githubcode\codest\Heap\Heap.h(26,39): warning C4028: 形参 2 与声明不同
+  (编译源文件“test.c”)
+  
+D:\Githubcode\codest\Heap\test.c(8,17): warning C4047: “函数”:“HPDataType *”与“int (*)[10]”的间接级别不同
+D:\Githubcode\codest\Heap\test.c(8,17): warning C4024: “HeapInit”: 形参和实参 2 的类型不同
+  Heap.vcxproj -> D:\Githubcode\codest\Heap\x64\Debug\Heap.exe

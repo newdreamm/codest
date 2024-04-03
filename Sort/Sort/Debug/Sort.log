@@ -1,0 +1,6 @@
+﻿  Stack.c
+  Sort.c
+  test.c
+D:\Githubcode\codest\Sort\Sort.c(426,2): warning C4013: “memcpy”未定义；假设外部返回 int
+  正在生成代码...
+  Sort.vcxproj -> D:\Githubcode\codest\Sort\Debug\Sort.exe
