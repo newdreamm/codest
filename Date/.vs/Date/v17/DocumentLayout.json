@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Githubcode\\codest\\Date\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\class_106\\22\u5E74-10\u670808\u65E5--\u7C7B\u548C\u5BF9\u8C61\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96673B66-D343-477F-8553-517CC2816345}|Date\\Date.vcxproj|D:\\Githubcode\\codest\\Date\\Date\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96673B66-D343-477F-8553-517CC2816345}|Date\\Date.vcxproj|solutionrelative:Date\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "D:\\class_106\\22\u5E74-10\u670808\u65E5--\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\class_106\\22\u5E74-10\u670808\u65E5--\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "ToolTip": "D:\\class_106\\22\u5E74-10\u670808\u65E5--\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "RelativeToolTip": "..\\..\\..\\class_106\\22\u5E74-10\u670808\u65E5--\u7C7B\u548C\u5BF9\u8C61\\Test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T11:58:56.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "D:\\Githubcode\\codest\\Date\\Date\\Date.cpp",
+              "RelativeDocumentMoniker": "Date\\Date.cpp",
+              "ToolTip": "D:\\Githubcode\\codest\\Date\\Date\\Date.cpp",
+              "RelativeToolTip": "Date\\Date.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vxMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T11:09:15.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
